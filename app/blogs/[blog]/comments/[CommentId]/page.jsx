@@ -1,3 +1,9 @@
+export const metadata = {
+  title: {
+    absolute: "Comments only"
+  }
+}
+
 const page = async ({ params, searchParams }) => {
 
     const { CommentId } = await params;

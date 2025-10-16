@@ -1,5 +1,9 @@
 import Link from "next/link";
 
+export const metadata = {
+  title: "Services"
+}
+
 const Services = () => {
   return (
     <>
@@ -11,4 +15,4 @@ const Services = () => {
   )
 }
 
-export default Services;
+export default Services;                                                                                        

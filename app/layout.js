@@ -1,4 +1,3 @@
-
 export const metadata = {
   title: {
     template: "%s | Technical Agency",
