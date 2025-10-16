@@ -4,7 +4,7 @@ export const metadata = {
 
 const page = async ({ params, searchParams }) => {
     return (
-        <div>Blog page {blog}</div>
+        <div>Blog page</div>
     )
 }
 
